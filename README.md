@@ -11,3 +11,18 @@ This is a classic Snake game created with HTML, CSS, and JavaScript. Players con
 - Snake grows longer each time it eats a ball.
 - Game over when the snake crashes into itself or the walls.
 - Player's final score is shown after the game ends.
+
+## Run Locally
+
+This is a Javascript project built with html, css and javascript. Follow the steps below to set up and run the project locally.
+
+### 1️⃣ Prerequisites
+Open a terminal and run:
+
+```bash
+git clone https://github.com/rumon3-1416/Snake-Game-IJ.git
+cd your-repository
+```
+
+### 2️⃣ Open with LiveServer
+Open the project folder in Visual Studio code. Then Open with LiveServer.
